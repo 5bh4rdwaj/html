@@ -1,0 +1,14 @@
+body{
+
+
+}
+#PrimaryMenu
+{ font-size:70px ;
+    background-color: grey;
+   color: orangered;
+   width: max-content;
+   height: initial;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+
+}

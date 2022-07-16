@@ -1,0 +1,45 @@
+body
+{
+}
+.Register 
+{
+width: 200px;
+height: 50px; 
+background-color: brown;
+color: black;
+font-size: 30px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: left;
+align-self: center;
+}
+.Recruit
+{ width: 200px;
+    height: 50px; 
+    background-color: brown;
+    color: black;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+align-self: center;
+}
+.Find
+{width: 200px;
+    height: 50px; 
+    background-color: green;
+    color: black;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    align-self: center;
+
+}
+#child-three
+{width: 200px;
+    height: 50px; 
+    background-color: olivedrab;
+    color: black;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+
+}
